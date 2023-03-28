@@ -95,7 +95,7 @@ DATABASES = {
         'NAME': 'Myproject',
         'USER': 'admin',
         'PASSWORD': 'Snehal12345',
-        'HOST': 'localhost',
+        'HOST': 'database-1.cluster-cfqopmcjoku2.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
